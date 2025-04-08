@@ -1,5 +1,9 @@
 # ugunscafe.lv
-uguns cafe website reposetory
+uguns cafe website reposetory progress tracking and tasks  
+Version tracking:  
+v0.8.2 obselite  
+v0.8.6 update pending  
+
 
 TO DO:
 -fix footer cliping in about page  
@@ -14,3 +18,4 @@ TO DO:
 -make headear as a component  
 -make a footer component  
 -shrink the design horizontaly and palce a background image  
+-cleanup for css requiered alot of unused components  
